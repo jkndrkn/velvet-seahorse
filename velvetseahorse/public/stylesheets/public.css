@@ -1,0 +1,107 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+}
+
+body {
+    /*font-family: "Palatino Linotype", "Book Antiqua", serif;*/
+    font-family: sans-serif;
+    font-size: 12px;
+    background: #fff; 
+    color: #314;
+    text-align: center;
+}
+
+p, h1 {
+    margin-bottom: 10px;
+}
+
+a img {
+    border: none;
+}
+
+a {
+    color: #314;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#container {
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    width: 900px;
+    height: 600px;
+    text-align: left;
+}
+
+#nav-left {
+    width: 230px;
+    margin-top: 150px;
+    float: left;
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 110%;
+    font-weight: bold;
+}
+
+#nav-left li {
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    font-style: italic;
+}
+
+#nav-top {
+    padding-bottom: 20px;
+}
+
+#nav-top a {
+    padding-bottom: 20px;
+}
+
+#nav-top a:hover {
+    text-decoration: underline;
+}
+
+#nav-top a, #nav-gallery a {
+    text-decoration: none;
+}
+
+#nav-top ul {
+    list-style-type: none;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+#nav-top ul li {
+    float: left;
+    padding-right: 20px;
+}
+
+#content-wrapper {
+    height: 500px;
+    width: 600px;
+    float: left;
+}
+
+#curiosity-wrapper {
+    width: 500px;
+}
+
+br.clear {
+    clear: both;
+}
+
+#gallery {
+    text-align: center;
+}
+
+dd {
+    padding: 0.5em 0 2em 1em;
+}
