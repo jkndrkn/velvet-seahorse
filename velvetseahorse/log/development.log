@@ -3185,3 +3185,43 @@ Rendering template within layouts/public
 Rendering public/body
 Rendered public/_gallery (0.00001)
 Completed in 0.00312 (320 reqs/sec) | Rendering: 0.00146 (46%) | DB: 0.00000 (0%) | 200 OK [http://localhost/public/body?current=13]
+
+
+Processing PublicController#index (for 127.0.0.1 at 2010-03-03 23:45:06) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--7b5de662e681e87188062e5c703218113108b63e
+  Parameters: {"action"=>"index", "controller"=>"public"}
+Rendering template within layouts/public
+Rendering public/index
+Completed in 0.00881 (113 reqs/sec) | Rendering: 0.00429 (48%) | DB: 0.00000 (0%) | 200 OK [http://localhost/public]
+
+
+Processing PublicController#body (for 127.0.0.1 at 2010-03-03 23:45:07) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--7b5de662e681e87188062e5c703218113108b63e
+  Parameters: {"action"=>"body", "controller"=>"public"}
+Rendering template within layouts/public
+Rendering public/body
+Rendered public/_gallery (0.00003)
+Completed in 0.00968 (103 reqs/sec) | Rendering: 0.00448 (46%) | DB: 0.00000 (0%) | 200 OK [http://localhost/public/body]
+
+
+Processing PublicController#eyes (for 127.0.0.1 at 2010-03-03 23:45:08) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--7b5de662e681e87188062e5c703218113108b63e
+  Parameters: {"action"=>"eyes", "controller"=>"public"}
+Rendering template within layouts/public
+Rendering public/eyes
+Rendered public/_gallery (0.00004)
+Completed in 0.00969 (103 reqs/sec) | Rendering: 0.00450 (46%) | DB: 0.00000 (0%) | 200 OK [http://localhost/public/eyes]
+
+
+Processing PublicController#index (for 127.0.0.1 at 2010-03-03 23:47:12) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--7b5de662e681e87188062e5c703218113108b63e
+  Parameters: {"action"=>"index", "controller"=>"public"}
+Rendering template within layouts/public
+Rendering public/index
+Rendered public/_google_analytics (0.00001)
+Rendered public/_stat_counter (0.00001)
+Completed in 0.06185 (16 reqs/sec) | Rendering: 0.05736 (92%) | DB: 0.00000 (0%) | 200 OK [http://localhost/public]
