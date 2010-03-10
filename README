@@ -1,0 +1,15 @@
+Repository for velvetseahorse.com project source code. If you are interested in Velvet Seahorse jewelry or photography, please follow this link to reach the site: http://www.velvetseahorse.com
+
+* php/2006-12/ is the original version of velvetseahorse.com and incidentally, my very first web application ;] The code defines a very simple CMS that an artist can use to post images and information regarding pieces for sale, as well as updatable news and other information sections.
+
+* php/2010-02/ is the currently live version of velvetseahorse.com and will be replaced with a Ruby on Rails implementation
+
+* rails/ is the planned replacement for php/2010-02/
+
+TODO:
+* Finalize routing scheme
+* Purchase and select hosting plan
+* Release and test site
+* Make small improvements to look and feel
+* Improve gallery code
+* Create administrative interface and CMS functionality
