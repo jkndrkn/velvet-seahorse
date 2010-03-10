@@ -1,0 +1,99 @@
+02-22-06 00:01:40 Access denied for user: 'vs@localhost' to database 'vss'
+02-22-06 00:01:40 No Database Selected
+02-22-06 00:02:06 Access denied for user: 'vs@localhost' to database 'vss'
+02-22-06 00:02:06 No Database Selected
+05-29-06 20:49:11 You have an error in your SQL syntax.  Check the manual that corresponds to your MySQL server version for the right syntax to use near 'm so soured!!', 'eyetank_.jpg', now())' at line 1
+06-12-06 20:23:15 You have an error in your SQL syntax.  Check the manual that corresponds to your MySQL server version for the right syntax to use near 'by items.catId' at line 1
+06-12-06 21:34:33 Query was empty
+06-12-06 21:34:33 Query was empty
+06-12-06 21:35:31 Query was empty
+06-12-06 21:35:31 Query was empty
+06-12-06 21:38:09 Query was empty
+06-12-06 21:38:37 Query was empty
+06-12-06 21:41:56 Query was empty
+06-12-06 21:57:35 Query was empty
+06-12-06 21:57:49 Query was empty
+06-12-06 21:58:22 Query was empty06-14-06 20:30:53 You have an error in your SQL syntax.  Check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+06-14-06 20:30:53 You have an error in your SQL syntax.  Check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+06-14-06 20:32:41 You have an error in your SQL syntax.  Check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+06-14-06 20:32:41 You have an error in your SQL syntax.  Check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+06-14-06 18:56:38 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:56:38 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:56:38 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:56:56 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:56:56 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:56:56 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:58:44 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:58:44 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:58:44 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:59:19 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:59:19 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 18:59:19 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:01:19 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:01:19 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:01:19 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:02:23 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:02:23 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:02:23 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:02:50 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+06-14-06 19:02:50 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+06-14-06 19:02:50 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+06-14-06 19:03:24 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:03:24 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:03:24 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:05:43 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:05:43 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:05:43 Access denied for user: 'v3s3@linhost207.mesa1.secureserver.net' (Using password: YES)
+06-14-06 19:06:05 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+06-14-06 19:06:05 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+06-14-06 19:06:05 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:40:15 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:40:15 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:40:15 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:41:12 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:41:12 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:41:13 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:43:58 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:43:58 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:43:58 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:44:29 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:44:29 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+11-19-06 20:44:29 Can't connect to MySQL server on 'linhost207.mesa1.secureserver.net' (111)
+12-17-06 10:52:40 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 10:53:11 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 10:53:53 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+12-17-06 10:54:18 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+12-17-06 13:16:24 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and items.catId = categories.catId
+    order by items.catId, itemDateAdded desc' at line 1
+12-17-06 13:16:24 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:16:24 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:16:24 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:17:23 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and items.catId = categories.catId
+    order by items.catId, itemDateAdded desc' at line 1
+12-17-06 13:17:23 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:17:23 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:17:23 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:22:03 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and items.catId = categories.catId
+    order by items.catId, itemDateAdded desc' at line 1
+12-17-06 13:22:03 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:22:03 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:22:03 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:23:06 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and items.catId = categories.catId
+    order by items.catId, itemDateAdded desc' at line 1
+12-17-06 13:23:06 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:23:55 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:24:01 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+12-17-06 13:38:22 Query was empty
+12-17-06 14:08:49 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(catId, itemTitle, itemPrice, itemDesc, itemThumb, itemDateAdded) values ('4', '' at line 1
+12-17-06 14:20:38 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(catId = '4', itemTitle = 'Monogamy', itemPrice = '65.00', itemDesc = 'Mixed med' at line 1
+12-17-06 14:21:17 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '4', itemTitle = 'Monogamy', itemPrice = '65.00', itemDesc = 'Mixed media: cla' at line 1
+12-17-06 14:41:50 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select max(itemId) from itemsitemThumb = '', itemDateAdded = now() where itemId ' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values ('4', '069_69.JPG')('4', '068_68' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
+12-17-06 15:23:16 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into itemimage (itemId, imageUrl) values insert into itemimage (itemId, i' at line 1
