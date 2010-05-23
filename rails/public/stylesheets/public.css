@@ -102,6 +102,10 @@ br.clear {
     text-align: center;
 }
 
+dt {
+    font-weight: bold;
+}
+
 dd {
     padding: 0.5em 0 2em 1em;
 }
