@@ -7,8 +7,6 @@ Repository for velvetseahorse.com project source code. If you are interested in 
 * rails/ is the planned replacement for php/2010-02/ It currently uses Rails 2.3.5 and Ruby 1.8.7
 
 TODO:
-* Finalize routing scheme
-* Purchase and select hosting plan
 * Release and test site
 * Make small improvements to look and feel
 * Improve gallery code
