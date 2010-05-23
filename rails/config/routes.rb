@@ -36,10 +36,11 @@ ActionController::Routing::Routes.draw do |map|
   # See how all your routes lay out with "rake routes"
 
   # Redirects to prevent deployment of site from breaking old links
+  map.connect ':action/:id', :controller => "public"
+
+  map.connect ':action.html', :controller => "public"
   map.connect ':action.php', :controller => "public"
   map.connect '/vs/:action.php', :controller => "public"
-
-  map.connect ':action/:id', :controller => "public"
 
   # Install the default routes as the lowest priority.
   map.connect ':controller/:action/:id'
