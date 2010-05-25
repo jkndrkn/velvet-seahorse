@@ -32,8 +32,8 @@ class PublicController < ApplicationController
     def gallery_generate(name, items_max, item_current)
         item_current = gallery_clamp_values(items_max, item_current)
         html = @template.image_tag("#{name}/#{item_current}.JPG")
-        html << gallery_generate_nav(name, items_max, item_current)
-        @gallery = html 
+        html << gallery_generate_nav(name, items_max, item_current).html_safe
+        @gallery = html
     end
 
     def gallery_generate_nav(name, items_max, item_current)
